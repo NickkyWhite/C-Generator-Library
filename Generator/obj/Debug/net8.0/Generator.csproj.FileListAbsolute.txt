@@ -1,0 +1,14 @@
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.AssemblyInfoInputs.cache
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.AssemblyInfo.cs
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.csproj.CoreCompileInputs.cache
+C:\Users\Meligo\source\repos\Generator\Generator\bin\Debug\net8.0\Generator.exe
+C:\Users\Meligo\source\repos\Generator\Generator\bin\Debug\net8.0\Generator.deps.json
+C:\Users\Meligo\source\repos\Generator\Generator\bin\Debug\net8.0\Generator.runtimeconfig.json
+C:\Users\Meligo\source\repos\Generator\Generator\bin\Debug\net8.0\Generator.dll
+C:\Users\Meligo\source\repos\Generator\Generator\bin\Debug\net8.0\Generator.pdb
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.dll
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\refint\Generator.dll
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.pdb
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\Generator.genruntimeconfig.cache
+C:\Users\Meligo\source\repos\Generator\Generator\obj\Debug\net8.0\ref\Generator.dll

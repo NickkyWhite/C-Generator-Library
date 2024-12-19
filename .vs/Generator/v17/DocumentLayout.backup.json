@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meligo\\source\\repos\\Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C608F1-5F2E-42BC-9842-7360C02903B7}|Generator\\Generator.csproj|c:\\users\\meligo\\source\\repos\\generator\\generator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C608F1-5F2E-42BC-9842-7360C02903B7}|Generator\\Generator.csproj|solutionrelative:generator\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C608F1-5F2E-42BC-9842-7360C02903B7}|Generator\\Generator.csproj|c:\\users\\meligo\\source\\repos\\generator\\generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C608F1-5F2E-42BC-9842-7360C02903B7}|Generator\\Generator.csproj|solutionrelative:generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Meligo\\source\\repos\\Generator\\Generator\\Class1.cs",
+              "RelativeDocumentMoniker": "Generator\\Class1.cs",
+              "ToolTip": "C:\\Users\\Meligo\\source\\repos\\Generator\\Generator\\Class1.cs",
+              "RelativeToolTip": "Generator\\Class1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:30:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meligo\\source\\repos\\Generator\\Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Generator\\Program.cs",
+              "ToolTip": "C:\\Users\\Meligo\\source\\repos\\Generator\\Generator\\Program.cs",
+              "RelativeToolTip": "Generator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:28:23.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
